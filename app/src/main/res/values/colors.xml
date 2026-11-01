@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="vlw_background">#FBF8F1</color>
+    <color name="vlw_surface">#FFFFFF</color>
+    <color name="vlw_surface_alt">#F3EEE0</color>
+    <color name="vlw_text">#1C1C1A</color>
+    <color name="vlw_text_soft">#7A776B</color>
+    <color name="vlw_green">#1F5C3E</color>
+    <color name="vlw_gold">#B8923A</color>
+    <color name="vlw_red">#B3392F</color>
+    <color name="vlw_amber">#C98A1B</color>
+    <color name="vlw_divider">#E7E1D0</color>
+</resources>
