@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VLW Inventory</string>
+    <string name="scan">Scan</string>
+    <string name="add_saree">Add Saree</string>
+    <string name="in_stock">In stock</string>
+    <string name="out_of_stock">Out of stock</string>
+    <string name="low_stock">Low</string>
+    <string name="sell_piece">Sell 1 piece</string>
+    <string name="sell_set">Sell 1 set</string>
+    <string name="save">Save</string>
+    <string name="cost_price">Cost price</string>
+    <string name="piece_price">Piece price</string>
+    <string name="set_price">Set price</string>
+    <string name="stock">Stock</string>
+    <string name="name">Name</string>
+    <string name="barcode">Barcode</string>
+    <string name="pieces_per_set">Pieces per set</string>
+    <string name="not_found">Product not found</string>
+</resources>
