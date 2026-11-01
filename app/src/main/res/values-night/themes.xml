@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.VLW" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#3E9B6C</item>
+        <item name="colorOnPrimary">#000000</item>
+        <item name="colorSecondary">#D4AF5A</item>
+        <item name="android:colorBackground">#000000</item>
+        <item name="colorSurface">#111111</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:textColorSecondary">#A8A596</item>
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:navigationBarColor">#000000</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
