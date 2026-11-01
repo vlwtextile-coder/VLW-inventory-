@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.VLW" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/vlw_green</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">@color/vlw_gold</item>
+        <item name="android:colorBackground">@color/vlw_background</item>
+        <item name="colorSurface">@color/vlw_surface</item>
+        <item name="android:textColorPrimary">@color/vlw_text</item>
+        <item name="android:textColorSecondary">@color/vlw_text_soft</item>
+        <item name="android:statusBarColor">@color/vlw_background</item>
+        <item name="android:navigationBarColor">@color/vlw_background</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
